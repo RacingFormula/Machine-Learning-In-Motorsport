@@ -4,19 +4,19 @@ This repository organises projects that use machine learning to solve motorsport
 
 ## Projects
 
-### 1. [Lap Time Prediction Model](#)
+### 1. [Lap Time Prediction Model](https://github.com/RacingFormula/Lap-Time-Prediction-Model)
 Predicts lap times based on car setup, track conditions, and driver inputs using regression models.
 
-### 2. [Tyre Life Predictor](#)
+### 2. [Tyre Life Predictor](https://github.com/RacingFormula/Tyre-Life-Predictor)
 Uses historical race data to predict the remaining life of tyres during a race.
 
-### 3. [Overtaking Success Predictor](#)
+### 3. [Overtaking Success Predictor](https://github.com/RacingFormula/Overtaking-Success-Predictor)
 Classifies the likelihood of successful overtakes based on track layout and car performance.
 
-### 4. [Strategy Success Classifier](#)
+### 4. [Strategy Success Classifier](https://github.com/RacingFormula/Strategy-Success-Classifier)
 Classifies race strategies as "successful" or "unsuccessful" based on historical data.
 
-### 5. [Track Condition Classifier](#)
+### 5. [Track Condition Classifier](https://github.com/RacingFormula/Track-Condition-Classifier)
 Predicts track conditions (e.g., dry, wet, damp) using telemetry and weather data.
 
 ## Usage
