@@ -10,7 +10,7 @@ Predicts lap times based on car setup, track conditions, and driver inputs using
 ### 2. [Tyre Life Predictor](https://github.com/RacingFormula/Tyre-Life-Predictor)
 Uses historical race data to predict the remaining life of tyres during a race.
 
-### 3. [Overtaking Success Predictor](https://github.com/RacingFormula/Overtaking-Success-Predictor)
+### 3. [Overtake Success Predictor](https://github.com/RacingFormula/Overtake-Success-Predictor)
 Classifies the likelihood of successful overtakes based on track layout and car performance.
 
 ### 4. [Strategy Success Classifier](https://github.com/RacingFormula/Strategy-Success-Classifier)
